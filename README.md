@@ -16,25 +16,25 @@ This lab simulates a real-world SOC workflow:
 # 📸 Screenshots  
 
 ### **📷 Suricata Environment Running**
-![Suricata Shell]![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/1.PNG)
+![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/1.PNG)
 
 ### **📷 Viewing the custom.rules File**
-![Custom Rules]![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/2.PNG)
+![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/2.PNG)
 
 ### **📷 Suricata Triggering Alerts from sample.pcap**
-![Suricata Alerts]![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/3.PNG)
+![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/3.PNG)
 
 ### **📷 fast.log Output**
-![fast.log]![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/4.PNG)
+![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/4.PNG)
 
 ### **📷 eve.json Raw Output (Formatted with jq)**
-![eve.json Raw]![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/6.PNG)
+![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/6.PNG)
 
 ### **📷 jq Pretty-Printed JSON Output**
-![jq Parsed JSON]![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/7.PNG)
+![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/7.PNG)
 
 ### **📷 jq Extracting Specific Fields (timestamp, flow_id, signature, proto, dest_ip)**
-![jq Field Extraction]![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/9.PNG)
+![image alt](https://github.com/HusseinCyberSec/Suricata-Lab/blob/961a50f444884cac19674cc3f2ab2509a6f267e9/9.PNG)
 
 ---
 
